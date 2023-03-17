@@ -1,0 +1,30 @@
+{
+  "NonLaborFinancialDetails": [
+    {
+      "nonLaborResourceId": "2",
+      "financialDetails": [
+        {
+          "financialYear": "2023",
+          "monthlyCost": ",,,,,0,1225.0,0,0,12250.0,0,0"
+        },
+        {
+          "financialYear": "2024",
+          "monthlyCost": "12250.0, 12250.0, 12250.0, 12250.0, 12250.0, 12250.0, 12250.0,,,,,,"
+        }
+      ]
+    },
+    {
+      "nonLaborResourceId": "3",
+      "financialDetails": [
+        {
+          "financialYear": "2023",
+          "monthlyCost": ",,,,,0,1225.0,0,0,12250.0,0,0"
+        },
+        {
+          "financialYear": "2024",
+          "monthlyCost": "12250.0, 12250.0, 12250.0, 12250.0, 12250.0, 12250.0, 12250.0,,,,,,"
+        }
+      ]
+    }
+  ]
+}
